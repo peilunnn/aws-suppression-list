@@ -1,0 +1,59 @@
+{
+    "SuppressedDestinationSummaries": [
+        {
+            "EmailAddress": "recipient0@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:03:05Z"
+        },
+        {
+            "EmailAddress": "recipient1@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:04:26Z"
+        },
+        {
+            "EmailAddress": "recipient2@example.com",
+            "Reason": "BOUNCE",
+            "LastUpdateTime": "2020-04-10T22:07:59Z"
+        },
+        {
+            "EmailAddress": "recipient3@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:04:05Z"
+        },
+        {
+            "EmailAddress": "recipient4@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:05:26Z"
+        },
+        {
+            "EmailAddress": "recipient5@example.com",
+            "Reason": "BOUNCE",
+            "LastUpdateTime": "2020-04-10T22:06:59Z"
+        },
+        {
+            "EmailAddress": "recipient6@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-10-10T21:03:05Z"
+        },
+        {
+            "EmailAddress": "recipient7@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-11-10T21:04:26Z"
+        },
+        {
+            "EmailAddress": "recipient8@example.com",
+            "Reason": "BOUNCE",
+            "LastUpdateTime": "2020-04-10T22:07:51Z"
+        },
+        {
+            "EmailAddress": "recipient9@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:03:50Z"
+        },
+        {
+            "EmailAddress": "recipient10@example.com",
+            "Reason": "COMPLAINT",
+            "LastUpdateTime": "2020-04-10T21:04:11Z"
+        }
+    ]
+}
